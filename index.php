@@ -1,4 +1,4 @@
 <?php
-echo "this is php file";
+echo "this is new php file";
 
 ?>
